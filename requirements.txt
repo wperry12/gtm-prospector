@@ -1,0 +1,9 @@
+# /requirements.txt
+flask
+requests
+beautifulsoup4
+google-generativeai
+markdown
+google-api-python-client
+thefuzz
+python-dotenv

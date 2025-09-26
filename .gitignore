@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# Secrets - IMPORTANT
+# Never commit your .env file with API keys
+.env
+
+# User-uploaded data
+# This prevents your personal LinkedIn connections from being committed
+data/
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+
+# macOS specific files
+.DS_Store
