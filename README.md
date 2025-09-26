@@ -3,7 +3,7 @@
 
 GTM Prospector is a Flask-based web application designed to accelerate Go-To-Market (GTM) strategy creation. By inputting a company name, the tool automatically fetches recent news about the company's AI strategy, identifies key senior personnel, checks for internal connections, and uses AI to generate a detailed sales briefing and actionable outreach plan.
 
-![GTM Prospector Screenshot](gtm-prospector.screenshot.png)
+![GTM Prospector Screenshot](gtm-prospector-screenshot.png)
 
 ## ✨ Features
 
